@@ -24,6 +24,12 @@ Projects in this section focus on data preparation (ETL), exploratory analysis, 
 
 This section contains projects focused on visual communication and dashboard design. The emphasis is on chart selection, layout, colour usage, and storytelling for non-technical audiences, rather than data preparation.
 
-*(Links will be added after project repositories are finalised.)*
+## Data Visualisation
+
+This section contains projects focused on visual communication and dashboard design. The emphasis is on chart selection, layout, colour usage, and storytelling for non-technical audiences, rather than data preparation.
+
+- **ADS Data Visualisation**  
+  Student-level visualisation projects using Power BI and QGIS.  
+  Repository: https://github.com/brown-leon/ADS-data-visualisation
 
 This portfolio will continue to evolve as I progress through my studies and develop deeper technical and analytical skills.
