@@ -16,7 +16,9 @@ My current focus is on exploratory analysis, data preparation workflows, and lea
 
 Projects in this section focus on data preparation (ETL), exploratory analysis, and interpretation using reproducible workflows in Python and Jupyter notebooks. Emphasis is placed on validating data, documenting assumptions, and clearly presenting analytical results.
 
-*(Links will be added after project repositories are finalised.)*
+- **Global Sales and Profitability Analysis**  
+  Applied exploratory analysis of global sales transactions examining regional demand, profitability, and seasonal trends.  
+  Repository: https://github.com/brown-leon/global-sales-profitability-analysis
 
 ## Data Visualisation
 
